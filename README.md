@@ -1,8 +1,9 @@
 
-<h1> Hi there 👋 , Welcome to my profile 🧑 </h1>
+<h1> Hi there 👋</h1>
+<h2> Welcome to the place where magic can happen 🪄 🧞‍♂️ 👨‍💻   </h2>
 <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png"/>
-<h4>  I'm Abanoub Samir Shenouda  :grinning: and i'm a Frontend Developer 💻 from EGYPT 🐪<h3>
-<h6>looking to solve real-world problems🌏. I'm passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏.</h4>
+<h2>  I'm Abanoub Samir Shenouda  :grinning: and i'm a Frontend Developer 💻 from EGYPT 🐪<h2>
+<h4>looking to solve real-world problems🌏. I'm passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏.</h4>
 
   </br>
   </br>
