@@ -1,6 +1,9 @@
 
 <h1> Hi there 👋</h1>
 <h2> Welcome to the place where magic can happen 🪄 🧞‍♂️ 👨‍💻   </h2>
+
+[![Visits Badge](https://badges.pufler.dev/visits/abanoubsamir-28/abanoubsamir-28)](https:braydoncoyer.dev)
+
 <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png"/>
 <h2>  I'm Abanoub Samir Shenouda  :grinning: and i'm a Frontend Developer 💻 from EGYPT 🐪<h2>
 <h4>looking to solve real-world problems🌏. I'm passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏.</h4>
@@ -26,7 +29,7 @@ My Followers now : <img alt="GitHub followers" src="https://img.shields.io/githu
   
 <h1> Social Links 🔗 :grin: </h1>
   
-[![Visits Badge](https://badges.pufler.dev/visits/abanoubsamir-28/abanoubsamir-28)](https:braydoncoyer.dev)
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/abanoubsamaan98)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abanoubsamir98/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/abanoubsamir-28)
