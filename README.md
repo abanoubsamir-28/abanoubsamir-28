@@ -3,6 +3,7 @@
 <h2> Welcome to the place where magic can happen 🪄 🧞‍♂️ 👨‍💻   </h2>
 
 [![Visits Badge](https://badges.pufler.dev/visits/abanoubsamir-28/abanoubsamir-28)](https:braydoncoyer.dev)
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/abanoubsamir-28?label=My%20Followers&style=social">
 
 <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png"/>
 <h2>  I'm Abanoub Samir Shenouda  :grinning: and i'm a Frontend Developer 💻 from EGYPT 🐪<h2>
@@ -23,7 +24,7 @@
 - 📫 Email me at [abanoubsamirshenouda@gmail.com](mailto:zamran.butt.1@gmail.com).
   
 
-My Followers now : <img alt="GitHub followers" src="https://img.shields.io/github/followers/abanoubsamir-28?label=My%20Followers&style=social">
+
 
   
   
