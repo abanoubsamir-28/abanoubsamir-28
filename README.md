@@ -70,7 +70,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abanoubsamir-28&hide=stars&show_icons=true&theme=algolia&line_height=40&count_private=true&show_owner=true">  
 </p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abanoubsamir-28&show_icons=true)
+
 <p align="center">
   <h1> Bye 🙋‍♂️</h1>
   
